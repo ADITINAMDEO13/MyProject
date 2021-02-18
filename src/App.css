@@ -1,6 +1,20 @@
+/* .container{
+  height: auto;
+  width: auto;
+  background-color: wheat;
+} */
+
 .App {
+  
   text-align: center;
+  background-color: yellow;
 }
+
+/* .container{
+  height: auto;
+  width: auto;
+  background-color: wheat;
+} */
 
 .App-logo {
   height: 40vmin;
