@@ -32,7 +32,7 @@ function App() {
         <br></br>
         <h5>"Haaye tussi jachhh rahe ho"</h5>
         <br></br>
-        <h5>"meri nanhi pari"</h5>
+        <h5><span>"</span>meri nanhi pari<span>"</span></h5>
         <br></br>
 
         Yes guys and many more everything you will find in one place.
